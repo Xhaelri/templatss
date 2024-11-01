@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(180deg, #2968dd, #03264e);
+  background: linear-gradient(180deg, #c0fdff, #014f52);
   height: 100vh;
 }
 .card {
